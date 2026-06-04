@@ -35,12 +35,12 @@ FastAPI) y diseñen una arquitectura en la nube que sea segura, escalable y auto
  
 
 ### URL del Codespace 
-
-[Insertar aqui la URL publica del Codespace con la API corriendo] 
-
+URL publica de APPI SeminarioSanMateo 
 https://laughing-yodel-p7jp54gxj9gr37qjr-8000.app.github.dev/ 
-
 https://laughing-yodel-p7jp54gxj9gr37qjr-8000.app.github.dev/docs
+
+https://fuzzy-doodle-p75697xv447fr4v6-8000.app.github.dev/
+https://fuzzy-doodle-p75697xv447fr4v6-8000.app.github.dev/docs
 
  
 
