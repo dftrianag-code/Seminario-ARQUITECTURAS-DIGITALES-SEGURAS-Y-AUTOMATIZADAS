@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="2bYSpyA3Dfak7f0DMBfR">
-    <mxGraphModel dx="1414" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1152" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TyJ0rt2JkgR6ljCwjSKc-2" parent="1" style="fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1;" value="ACTOR EXTERNO" vertex="1">
+          <mxGeometry height="160" width="1100" x="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TyJ0rt2JkgR6ljCwjSKc-3" parent="1" style="fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;fontStyle=1;" value="INTERNET / RED PUBLICA" vertex="1">
+          <mxGeometry height="140" width="1100" x="20" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="TyJ0rt2JkgR6ljCwjSKc-4" parent="1" style="fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1;" value="GITHUB CODESPACES | MICROSOFT AZURE" vertex="1">
+          <mxGeometry height="450" width="1090" x="20" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="TyJ0rt2JkgR6ljCwjSKc-5" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="330" y="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
