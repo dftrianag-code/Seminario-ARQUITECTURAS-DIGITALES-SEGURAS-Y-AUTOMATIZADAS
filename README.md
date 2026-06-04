@@ -57,8 +57,7 @@ El siguiente diagrama representa el estado actual del sistema de evaluación de 
 
 ```mermaid 
 
-[Pegar aqui el codigo Mermaid de la plantilla]
-
+[
 graph TD 
 
     %% ======================================================== 
@@ -129,7 +128,9 @@ graph TD
 
     class EP2 endpoint_monitor
 
-    class EP3 endpoint_vuln
+    class EP3 endpoint_vuln]
+
+
 
 ``` 
 
