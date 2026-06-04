@@ -21,17 +21,16 @@ FastAPI) y diseñen una arquitectura en la nube que sea segura, escalable y auto
 
 ## Integrantes del Grupo 
 
-| Nombre | GitHub User | 
+| GRUPO 9 |  
 
 |--------|-------------| 
 
-| [Nombre 1] | @usuario1 | 
+| DAVID FELIPE TRIANA GONZÁLEZ | [@usuario1](https://github.com/dftrianag-code/DavidTriana.git) | 
 
-| [Nombre 2] | @usuario2 | 
+| FRANK LEONARDO CARVAJAL ROJAS | [@usuario2](https://github.com/flcarvajalr-collab/frank) | 
 
-| [Nombre 3] | @usuario3 | 
 
- 
+
 
 ## Laboratorio 1 — Arquitectura As-Is 
 
@@ -45,7 +44,7 @@ FastAPI) y diseñen una arquitectura en la nube que sea segura, escalable y auto
 
 ### Diagrama Arquitectonico As-Is 
 
-El siguiente diagrama representa el estado actual del sistema de evaluacion de riesgo 
+El siguiente diagrama representa el estado actual del sistema de evaluación de riesgo 
 
 crediticio de FinTech Nova desplegado en GitHub Codespaces: 
 
