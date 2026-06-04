@@ -71,6 +71,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TyJ0rt2JkgR6ljCwjSKc-33" edge="1" parent="1" source="TyJ0rt2JkgR6ljCwjSKc-18" style="endArrow=block;dashed=1;strokeColor=#1E8449;strokeWidth=2;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.703;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;" target="TyJ0rt2JkgR6ljCwjSKc-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="490" as="sourcePoint" />
+            <mxPoint x="731.4500000000002" y="169.99999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TyJ0rt2JkgR6ljCwjSKc-34" connectable="0" parent="TyJ0rt2JkgR6ljCwjSKc-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;fontStyle=0;labelBackgroundColor=default;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;JSON response | {Resultado: Aprobado / Rechazado / En revisión&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2044" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
