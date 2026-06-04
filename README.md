@@ -52,10 +52,10 @@ RUTA: docs/Diagramas/
 
 ![Diagrama As - Is](docs/Diagramas/Diagrama As-Is.drawio.png)
 
-![Diagrama As - Is](docs/Diagramas/Diagrama_As_Is.drawio.png) 
+![Diagrama As - Is](docs/Diagramas/Diagrama_As-Is.drawio.png)
 
-
-
+docs/Diagramas/Diagrama As-Is.drawio.png 
+ 
 ### Version interactiva (Mermaid) 
 
 ```mermaid 
