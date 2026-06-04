@@ -38,6 +38,8 @@ FastAPI) y diseñen una arquitectura en la nube que sea segura, escalable y auto
 
 [Insertar aqui la URL publica del Codespace con la API corriendo] 
 
+https://laughing-yodel-p7jp54gxj9gr37qjr-8000.app.github.dev/ 
+
  
 
 ### Diagrama Arquitectonico As-Is 
