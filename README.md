@@ -49,7 +49,8 @@ El siguiente diagrama representa el estado actual del sistema de evaluación de 
 crediticio de FinTech Nova desplegado en GitHub Codespaces: 
 
 RUTA: docs/Diagramas/
-
+![Diagrama As - Is](docs/Diagramas/Diagrama As-Is.drawio.png) 
+ 
 
 
 
