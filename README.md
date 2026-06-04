@@ -1,7 +1,7 @@
 # Seminario-ARQUITECTURAS-DIGITALES-SEGURAS-Y-AUTOMATIZADAS
 
-# PROYECTO: Proyecto Final Integrador: Arquitectura, Seguridad y  Automatización de una API de Predicción en la Nube
-## Roslaysoft x FinTech Nova 
+## PROYECTO: Proyecto Final Integrador: Arquitectura, Seguridad y  Automatización de una API de Predicción en la Nube
+### Roslaysoft x FinTech Nova 
 
 ## DESCRIPCIÓN DEL PROYECTO: 
 En la actualidad, las aplicaciones no operan de forma aislada; viven en ecosistemas 
@@ -32,7 +32,7 @@ FastAPI) y diseñen una arquitectura en la nube que sea segura, escalable y auto
 
 
 
-## Laboratorio 1 — Arquitectura As-Is 
+# Laboratorio 1 — Arquitectura As-Is 
 
  
 
@@ -44,11 +44,7 @@ FastAPI) y diseñen una arquitectura en la nube que sea segura, escalable y auto
 
 ### Diagrama Arquitectonico As-Is 
 
-El siguiente diagrama representa el estado actual del sistema de evaluación de riesgo 
-
-crediticio de FinTech Nova desplegado en GitHub Codespaces: 
-
-RUTA: docs/Diagramas/
+El siguiente diagrama representa el estado actual del sistema de evaluación de riesgo crediticio de FinTech Nova desplegado en GitHub Codespaces: 
 
 ![Diagrama As - Is](docs/Diagramas/Diagrama%20As-Is.drawio.png)
 
