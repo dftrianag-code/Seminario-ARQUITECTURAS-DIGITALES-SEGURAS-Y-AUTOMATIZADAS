@@ -36,18 +36,16 @@ FastAPI) y diseñen una arquitectura en la nube que sea segura, escalable y auto
 
 ### URL del Codespace 
 
-####URL pública de APPI SeminarioSanMateo Bifurcado de RoslayBautista/SeminarioSanmateo:
+### URL pública de APPI SeminarioSanMateo Bifurcado de RoslayBautista/SeminarioSanmateo:
 
 https://laughing-yodel-p7jp54gxj9gr37qjr-8000.app.github.dev/ 
-https://laughing-yodel-p7jp54gxj9gr37qjr-8000.app.github.dev/docs
 
-####URL pública de APPI Seminario-ARQUITECTURAS-DIGITALES-SEGURAS-Y-AUTOMATIZADAS de mi repositorio:
+### URL pública de APPI Seminario-ARQUITECTURAS-DIGITALES-SEGURAS-Y-AUTOMATIZADAS de mi repositorio:
 
 https://fuzzy-doodle-p75697xv447fr4v6-8000.app.github.dev/
-https://fuzzy-doodle-p75697xv447fr4v6-8000.app.github.dev/docs
+
 
  
-
 ### Diagrama Arquitectonico As-Is 
 
 El siguiente diagrama representa el estado actual del sistema de evaluación de riesgo crediticio de FinTech Nova desplegado en GitHub Codespaces: 
