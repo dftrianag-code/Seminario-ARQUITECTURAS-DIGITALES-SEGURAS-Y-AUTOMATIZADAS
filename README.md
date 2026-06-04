@@ -50,7 +50,7 @@ crediticio de FinTech Nova desplegado en GitHub Codespaces:
 
 RUTA: docs/Diagramas/
 
-![Diagrama As - Is](docs/Diagramas/Diagrama_As-Is.drawio.png)
+![Diagrama As - Is](docs/Diagramas/Diagrama%20As-Is.drawio.png)
 
  
 ### Version interactiva (Mermaid) 
