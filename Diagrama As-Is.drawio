@@ -48,14 +48,17 @@
         <mxCell id="TyJ0rt2JkgR6ljCwjSKc-21" parent="1" style="fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;fontSize=18;" value="GET /status" vertex="1">
           <mxGeometry height="60" width="750" x="240" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="TyJ0rt2JkgR6ljCwjSKc-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="750" x="240" y="680" as="geometry" />
+        <mxCell id="TyJ0rt2JkgR6ljCwjSKc-22" parent="1" style="fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;fontSize=18;" value="GET /datos - financieros / { id }" vertex="1">
+          <mxGeometry height="80" width="750" x="240" y="680" as="geometry" />
         </mxCell>
         <mxCell id="TyJ0rt2JkgR6ljCwjSKc-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;span style=&quot;font-size: 15px; font-weight: 700; white-space: nowrap;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(156, 156, 156));&quot;&gt;Devuelve: Aprobado / Rechazado / En revisión&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="48" x="580" y="550" as="geometry" />
         </mxCell>
         <mxCell id="TyJ0rt2JkgR6ljCwjSKc-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(156, 156, 156));&quot;&gt;Monitoreo de salud de la API (Publico)&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="280" x="470" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="TyJ0rt2JkgR6ljCwjSKc-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(156, 156, 156));&quot;&gt;Historial de transacciones del cliente&lt;/font&gt;&lt;div&gt;&lt;span data-contrast=&quot;none&quot; lang=&quot;EN-US&quot; class=&quot;TextRun SCXW103896375 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; text-align: left; background-color: rgb(255, 255, 255); color: rgb(26, 32, 44); font-size: 10.5pt; line-height: 18.3458px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW103896375 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot;&gt;⚠ VULNERABLE — Sin Auth&#39;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXW103896375 BCX0&quot; data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:30,&amp;quot;335559739&amp;quot;:38}&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; text-align: left; background-color: rgb(255, 255, 255); font-size: 10.5pt; line-height: 18.3458px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; color: rgb(26, 32, 44);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="390" x="420" y="720" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
