@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="2bYSpyA3Dfak7f0DMBfR">
-    <mxGraphModel dx="1132" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1152" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry height="120" width="610" x="280" y="190" as="geometry" />
         </mxCell>
         <mxCell id="TyJ0rt2JkgR6ljCwjSKc-4" parent="1" style="fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;fontStyle=1;align=left;verticalAlign=top;" value="GITHUB CODESPACES | MICROSOFT AZURE" vertex="1">
-          <mxGeometry height="340" width="1090" x="40" y="340" as="geometry" />
+          <mxGeometry height="410" width="1090" x="50" y="380" as="geometry" />
         </mxCell>
         <mxCell id="TyJ0rt2JkgR6ljCwjSKc-5" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" value="" vertex="1">
           <mxGeometry height="95" width="110" x="390" y="45" as="geometry" />
@@ -32,6 +32,12 @@
           <mxGeometry height="32" relative="1" width="32" y="0.5" as="geometry">
             <mxPoint x="5" y="-16" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TyJ0rt2JkgR6ljCwjSKc-14" parent="1" style="fillColor=#ffffff;strokeColor=#0D2B55;dashed=1;align=left;verticalAlign=top;fontSize=16;" value="CONTENEDOR LINUX (Efímero) | VS Code Server" vertex="1">
+          <mxGeometry height="335" width="965" x="115" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="TyJ0rt2JkgR6ljCwjSKc-15" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" value="" vertex="1">
+          <mxGeometry height="20" width="31.75" x="70" y="425" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
