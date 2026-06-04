@@ -23,8 +23,6 @@ FastAPI) y diseñen una arquitectura en la nube que sea segura, escalable y auto
 
 | GRUPO 9 |  
 
-|--------|-------------| 
-
 | DAVID FELIPE TRIANA GONZÁLEZ | [@usuario1](https://github.com/dftrianag-code/DavidTriana.git) | 
 
 | FRANK LEONARDO CARVAJAL ROJAS | [@usuario2](https://github.com/flcarvajalr-collab/frank) | 
