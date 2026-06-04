@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="2bYSpyA3Dfak7f0DMBfR">
-    <mxGraphModel dx="1152" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="921" dy="1059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,8 +57,19 @@
         <mxCell id="TyJ0rt2JkgR6ljCwjSKc-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(156, 156, 156));&quot;&gt;Monitoreo de salud de la API (Publico)&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="280" x="470" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="TyJ0rt2JkgR6ljCwjSKc-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(156, 156, 156));&quot;&gt;Historial de transacciones del cliente&lt;/font&gt;&lt;div&gt;&lt;span data-contrast=&quot;none&quot; lang=&quot;EN-US&quot; class=&quot;TextRun SCXW103896375 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; text-align: left; background-color: rgb(255, 255, 255); color: rgb(26, 32, 44); font-size: 10.5pt; line-height: 18.3458px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW103896375 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot;&gt;⚠ VULNERABLE — Sin Auth&#39;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXW103896375 BCX0&quot; data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:30,&amp;quot;335559739&amp;quot;:38}&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; text-align: left; background-color: rgb(255, 255, 255); font-size: 10.5pt; line-height: 18.3458px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; color: rgb(26, 32, 44);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="TyJ0rt2JkgR6ljCwjSKc-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(156, 156, 156));&quot;&gt;Historial de transacciones del cliente&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 102, 102));&quot;&gt;&lt;span data-contrast=&quot;none&quot; lang=&quot;EN-US&quot; class=&quot;TextRun SCXW103896375 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; text-align: left; background-color: rgb(255, 255, 255); font-size: 10.5pt; line-height: 18.3458px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important; color: rgb(26, 32, 44);&quot;&gt;&lt;span class=&quot;NormalTextRun SCXW103896375 BCX0&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text;&quot;&gt;⚠ VULNERABLE — Sin Auth&#39;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;EOP SCXW103896375 BCX0&quot; data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:30,&amp;quot;335559739&amp;quot;:38}&quot; style=&quot;-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; text-align: left; background-color: rgb(255, 255, 255); font-size: 10.5pt; line-height: 18.3458px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; color: rgb(26, 32, 44);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="390" x="420" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="TyJ0rt2JkgR6ljCwjSKc-31" edge="1" parent="1" style="endArrow=block;strokeColor=#1A5C9A;strokeWidth=2;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399.99666666666656" y="172.61" as="sourcePoint" />
+            <mxPoint x="406.35000000000014" y="480.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TyJ0rt2JkgR6ljCwjSKc-32" connectable="0" parent="TyJ0rt2JkgR6ljCwjSKc-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;fontStyle=0;labelBackgroundColor=default;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;HTTPS | POST /evaluar - riesgo | JSON payload&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1479" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
