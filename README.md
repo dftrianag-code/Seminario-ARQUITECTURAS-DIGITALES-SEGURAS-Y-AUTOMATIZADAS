@@ -27,7 +27,7 @@ FastAPI) y diseñen una arquitectura en la nube que sea segura, escalable y auto
 
 | FRANK LEONARDO CARVAJAL ROJAS | [@usuario2](https://github.com/flcarvajalr-collab/frank) | 
 
-
+| JUAN FELIPE ESCOBAR FLOREZ |  | 
 
 
 # Laboratorio 1 — Arquitectura As-Is 
