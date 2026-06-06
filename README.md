@@ -39,6 +39,7 @@ FastAPI) y diseñen una arquitectura en la nube que sea segura, escalable y auto
 ### URL pública de APPI SeminarioSanMateo Bifurcado de RoslayBautista/SeminarioSanmateo:
 
 https://laughing-yodel-p7jp54gxj9gr37qjr-8000.app.github.dev/ 
+https://laughing-yodel-p7jp54gxj9gr37qjr-8000.app.github.dev/docs 
 
 ### URL pública de APPI Seminario-ARQUITECTURAS-DIGITALES-SEGURAS-Y-AUTOMATIZADAS de mi repositorio:
 
